@@ -55,7 +55,7 @@
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(200, 18);
             this.label1.TabIndex = 1;
-            this.label1.Text = "INGRESE UN NUMERO: ";
+            this.label1.Text = "INGRESE UN NÚMERO: ";
             // 
             // NumeroTextBox
             // 
